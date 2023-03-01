@@ -1,2 +1,2 @@
-### Week 2
-spaCy: dcard-top100.csv
+### Week 2 spaCy
+語料: dcard-top100.csv
