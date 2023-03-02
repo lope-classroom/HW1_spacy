@@ -1,4 +1,4 @@
-### Week 2 spaCy
+### HW1 spaCy
 
 - 題目詳細說明請參考 _HW1_spacy.ipynb_
 
