@@ -1,6 +1,6 @@
 ### Week 2 spaCy
 
-題目詳細說明請參考 _111-2 Week 2_spacy_hw.ipynb_
+題目詳細說明請參考 _Week 2_spacy_hw.ipynb_
 
 使用語料：dcard-top100.csv
 
